@@ -6,7 +6,7 @@ Romily Barría
 Camilo Chavol
 
 Enlace al Repositorio Git:
-[PEGAR_AQUI_TU_LINK_DE_GITHUB]
+https://github.com/CamiloChavol/Certamen3.git
 
 -----------------------------------------------------------------
   Descripción del Proyecto
@@ -80,4 +80,5 @@ Una vez que el buscador esté activo, ingrese las siguientes consultas (sin comi
 | perro                    | 1, 3, 5                              | Término simple.                |
 | perro casa            | 1, 5                                  | Intersección (AND Lógico). |
 | gato casa arbol    | 2                                      | Triple Intersección.             |
+
 | salir                     | Cierra el programa.           |                                          |
